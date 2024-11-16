@@ -5,9 +5,5 @@ st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 
-st.write("Shanta Test of Streamlit")
-
-# from ultralytics import solutions
-
-# solutions.inference()
+st.write("Shanta Test of Streamlit - Second Test")
 
